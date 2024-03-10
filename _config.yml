@@ -16,7 +16,7 @@ timezone: Asia/Tbilisi
 
 title: Egor Quenum # the main title
 
-tagline: Software Engineer | Homelab Enthusiast  # it will display as the sub-title
+tagline: Software Engineer | Homelab Enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -79,7 +79,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/C5603AQHQuJjqd2h33w/profile-displayphoto-shrink_200_200/0/1603542845164?e=1714003200&v=beta&t=bSvTZPRcW2Ak1xD8_HQNqUJ8XLRVHWiAlUkuA_j5Fq8
+avatar: /assets/img/avatar/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
