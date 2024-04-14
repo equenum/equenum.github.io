@@ -60,12 +60,12 @@ var number = ConsoleHelper.GetInput<int>(
 
 ### Parameters
 
-#### Visual Studio:
+#### Visual Studio
 
 - **IncludeAppsettings:** Includes `appsettings.json` and `appsettings.Development.json` (defaults to `true`).
 - **IncludeUtils:** Includes template specific utility classes (defaults to `true`).
 
-#### .Net CLI:
+#### .Net CLI
 
 ```shell
 dotnet new mentor-console -h
