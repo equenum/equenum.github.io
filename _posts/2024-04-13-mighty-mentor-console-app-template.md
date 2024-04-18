@@ -15,7 +15,7 @@ While conducting dozens of hours of presentations, workshops, and live coding se
 
 After manually recreating this project from scratch more times than I feel comfortable admitting, I finally decided to put it into a template. While I was at it, I figured why not share it with other fellow .NET developers. So, here is how MightyMentor template was born. You can find it on [Nuget.org](https://www.nuget.org/packages/MightyMentorConsole.Template) and [GitHub](https://github.com/equenum/dotnet_project_templates/tree/main/MightyMentorConsole.Template).
 
-I also published a dedicated blog entry where I composed a list of useful materials and examples I found as part of my research. You can find it here.
+I also published a dedicated blog entry where I composed a list of useful materials and examples I found as part of my research. You can find it [here]({% post_url 2024-04-18-create-and-publish-dotnet-project-templates %}).
 
 ## MightyMentorConsole.Template
 
