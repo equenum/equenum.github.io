@@ -4,8 +4,8 @@ date: 2025-02-07 13:00:00 +0400
 categories: [software-development]
 tags: [dotnet, csharp, dependency-injection, hosted-service]
 image:
-  path: assets/img/posts/20250207/ef-logo.png
-  lqip: assets/img/posts/20250207/ef-logo-lqip.webp
+  path: assets/img/posts/common/ef-logo.png
+  lqip: assets/img/posts/common/ef-logo-lqip.webp
 ---
 
 ## Problem
@@ -33,7 +33,7 @@ builder.Services.AddDbContextFactory<MonitorDbContext>(options =>
 });
 ```
 
-This method registers a singleton `IDbContextFactory` and a scoped DbContext which in turn allows us to produce instances of the second on demand via `CreateDbContext()`:
+This method registers a singleton `IDbContextFactory` and a scoped `DbContext` which in turn allows us to produce instances of the second on demand via `CreateDbContext()`:
 
 ```csharp
 ...
@@ -94,7 +94,7 @@ public ResourceService(
 ...
 ```
 
-That’s pretty neat. It makes me wonder whether it's a good idea to just adopt it as a common practice and always use `AddDbContextFactory()` by default when first wiring up `Entity Framework` in a new project.
+That’s pretty neat. It makes me wonder whether it's a good idea to just adopt it as a common practice and always use `AddDbContextFactory()` by default when first wiring up `Entity Framework` in new projects.
 
 ## Useful URLs
 
