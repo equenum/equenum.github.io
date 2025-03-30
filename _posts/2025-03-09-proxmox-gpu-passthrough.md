@@ -4,8 +4,8 @@ date: 2025-03-09 13:00:00 +0400
 categories: [homelab]
 tags: [homelab, proxmox, server, hardware, nvidia]
 image:
-  path: assets/img/posts/common/proxmox-logo.png
-  lqip: assets/img/posts/common/proxmox-logo-lqip.webp
+  path: assets/img/posts/common/proxmox-thumb.webp
+  lqip: assets/img/posts/common/common-thumb-lqip.webp
 ---
 
 Welcome to this quick guide on how to set up GPU passthrough on a server running Proxmox. In my specific case, I used an `Nvidia` GPU with an `Intel` CPU; however, this guide should also work for other major vendors like AMD with minor adjustments.

@@ -4,8 +4,8 @@ date: 2025-02-07 13:00:00 +0400
 categories: [software-development]
 tags: [dotnet, csharp, dependency-injection, hosted-service]
 image:
-  path: assets/img/posts/common/ef-logo.png
-  lqip: assets/img/posts/common/ef-logo-lqip.webp
+  path: assets/img/posts/common/ef-thumb.webp
+  lqip: assets/img/posts/common/common-thumb-lqip.webp
 ---
 
 ## Problem

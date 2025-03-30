@@ -4,8 +4,8 @@ date: 2024-09-22 13:00:00 +0400
 categories: [homelab]
 tags: [benchmark, postgres, server, self-hosting]
 image:
-  path: assets/img/posts/20240922/prox_postgres_thumbnail.webp
-  lqip: assets/img/posts/20240922/prox_postgres_thumbnail_lqip.webp
+  path: assets/img/posts/20240922/postgre-load-thumb.webp
+  lqip: assets/img/posts/common/common-thumb-lqip.webp
 ---
 
 As someone who runs their homelab on older, low-power hardware, I constantly wonder if the setup I have is up to the task and can handle some semi-decent workloads if I ever need to expand the circle of users beyond just friends and family. There is probably no better way to answer this question than by actually trying.

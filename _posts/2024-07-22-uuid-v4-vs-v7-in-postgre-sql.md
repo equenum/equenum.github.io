@@ -4,8 +4,8 @@ date: 2024-07-22 13:00:00 +0400
 categories: [software-development]
 tags: [dotnet, csharp, postgres, sql, uuid-v4, uuid-v7, benchmark]
 image:
-  path: assets/img/posts/20240722/postgres_thumbnail.webp
-  lqip: assets/img/posts/20240722/postgres_thumbnail_lqip.webp
+  path: assets/img/posts/20240722/postgre-uuid-keys-thumb.webp
+  lqip: assets/img/posts/common/common-thumb-lqip.webp
 ---
 
 In light of the recent news of [native UUID v7 GUID support coming to .NET 9](https://github.com/dotnet/runtime/pull/104124), I have been deep-diving into [UUID specification](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-04.html), as well as the pros and cons of using UUID v7 as database table primary keys.
