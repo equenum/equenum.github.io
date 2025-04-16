@@ -1,7 +1,7 @@
 ---
 title: Benchmarking UUID v4 vs v7 primary keys in Postgres
 date: 2024-07-22 13:00:00 +0400
-categories: [software-development]
+categories: [software-development, dotnet]
 tags: [dotnet, csharp, postgres, sql, uuid-v4, uuid-v7, benchmark]
 image:
   path: assets/img/posts/20240722/postgre-uuid-keys-thumb.webp

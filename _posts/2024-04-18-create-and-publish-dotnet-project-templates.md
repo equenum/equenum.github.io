@@ -1,9 +1,9 @@
 ---
 title: Create and publish your custom .NET project templates
 date: 2024-04-18 13:00:00 +0400
-categories: [software-development]
+categories: [software-development, dotnet]
 tags:
-  [dotnet, csharp, visual-studio, vs-code, project-templates, nuget, dotnet-new]
+  [dotnet, csharp, visual-studio, vs-code, project-templates, nuget, dotnet-new, study-guide]
 image:
   path: assets/img/posts/20240418/project-template-thumbnail.webp
   lqip: assets/img/posts/20240418/project-template-lqip.webp

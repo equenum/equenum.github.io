@@ -1,7 +1,7 @@
 ---
 title: Meet MightyMentor .NET Console app template
 date: 2024-04-13 13:00:00 +0400
-categories: [software-development]
+categories: [software-development, dotnet]
 tags:
   [dotnet, csharp, visual-studio, vs-code, project-templates, nuget, dotnet-new]
 image:

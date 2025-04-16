@@ -1,7 +1,7 @@
 ---
 title: Injecting an EF DbContext instance into an IHostedService
 date: 2025-02-07 13:00:00 +0400
-categories: [software-development]
+categories: [software-development, dotnet]
 tags: [dotnet, csharp, dependency-injection, hosted-service]
 image:
   path: assets/img/posts/common/ef-thumb.webp

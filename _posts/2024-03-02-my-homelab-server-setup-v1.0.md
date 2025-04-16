@@ -1,7 +1,7 @@
 ---
 title: My Homelab server setup 2024v1.0
 date: 2024-03-02 13:00:00 +0400
-categories: [homelab]
+categories: [homelab, setup]
 tags: [homelab, server, hardware, raspberry-pi]
 image:
   path: assets/img/posts/20240302/server_thumbnail.webp

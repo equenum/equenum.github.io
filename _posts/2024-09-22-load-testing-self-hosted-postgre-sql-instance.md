@@ -1,7 +1,7 @@
 ---
 title: Load testing a self-hosted PostgreSQL instance
 date: 2024-09-22 13:00:00 +0400
-categories: [homelab]
+categories: [homelab, benchmarks]
 tags: [benchmark, postgres, server, self-hosting]
 image:
   path: assets/img/posts/20240922/postgre-load-thumb.webp

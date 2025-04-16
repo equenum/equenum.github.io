@@ -1,7 +1,7 @@
 ---
 title: Setting up Ollama on Ubuntu Server (Nvidia GPU Support)
 date: 2025-03-22 13:00:00 +0400
-categories: [homelab]
+categories: [homelab, guides]
 tags: [homelab, proxmox, server, hardware, nvidia, ollama, llm]
 image:
   path: assets/img/posts/common/ollama-thumb.webp

@@ -1,7 +1,7 @@
 ---
 title: Setting up Proxmox GPU Passthrough
 date: 2025-03-09 13:00:00 +0400
-categories: [homelab]
+categories: [homelab, guides]
 tags: [homelab, proxmox, server, hardware, nvidia]
 image:
   path: assets/img/posts/common/proxmox-thumb.webp

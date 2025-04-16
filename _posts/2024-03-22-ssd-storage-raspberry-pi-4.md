@@ -1,7 +1,7 @@
 ---
 title: Choosing SSD storage for a Raspberry Pi 4 micro server
 date: 2024-03-22 13:00:00 +0400
-categories: [homelab]
+categories: [homelab, hardware]
 tags: [raspberry-pi, hardware]
 image:
   path: assets/img/posts/20240322/rpi4_ssd_thumbnail.webp
